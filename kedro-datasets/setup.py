@@ -6,7 +6,7 @@ from setuptools import setup
 PANDAS = "pandas>=1.3, <3.0"
 SPARK = "pyspark>=2.2, <4.0"
 HDFS = "hdfs>=2.5.8, <3.0"
-S3FS = "s3fs>=0.3.0, <0.5"
+S3FS = "s3fs>=2022.11.0"
 POLARS = "polars>=0.18.0"
 DELTA = "delta-spark~=1.2.1"
 
